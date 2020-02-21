@@ -1,7 +1,7 @@
 # microsoft-terminal-profiles
  Microsoft Terminal Config files, copy the json configuration into the Microsoft Terminal settings to save the customizations.
 
- ## **Config files to use with Microsoft Terminal** ##  
+ ## **Default options available for use with Microsoft Terminal** ##  
 
  **Default Microsoft Terminal color schemes:**  
  -Use default colorscheme by name as "colorScheme": "One Half Dark"  
