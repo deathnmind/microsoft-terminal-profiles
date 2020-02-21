@@ -1,7 +1,7 @@
-# microsoft-terminal
+# microsoft-terminal-profiles
  Microsoft Terminal Config files
 
- Config files to use with Microsoft Terminal
+ ***Config files to use with Microsoft Terminal***  
 
  **Default Microsoft Terminal color schemes:**  
  Campbell (The new default color scheme for Windows Console)  
