@@ -1,6 +1,10 @@
 # microsoft-terminal-profiles
  Microsoft Terminal Config files, copy the json configuration into the Microsoft Terminal settings to save the customizations.
 
+Basic - standard configuration not much customization
+Vintage - Vintage Color Scheme added
+Greiged - Second Ubuntu Terminal with Greiged color shceme
+
  ## **Default options available for use with Microsoft Terminal** ##  
 
  **Default Microsoft Terminal color schemes:**  
@@ -17,4 +21,6 @@
 "cursorShape" : "filledBox"  
 "cursorShape" : "emptyBox"  
 "cursorShape" : "underscore"  
-"cursorShape" : "vintage"  
+"cursorShape" : "vintage" 
+
+**Icons sourced from : http://www.iconarchive.com
