@@ -12,7 +12,7 @@
  Solarized Light  
 
 **Cursor Shapes**  
--Use cursors in the following format "cursorShape" : “bar"  
+-Use cursors in the following format:  
 "cursorShape" : “bar"  
 "cursorShape" : "filledBox"  
 "cursorShape" : "emptyBox"  
