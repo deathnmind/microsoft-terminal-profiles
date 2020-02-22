@@ -1,6 +1,7 @@
 # microsoft-terminal-profiles
  Microsoft Terminal Config files, copy the json configuration into the Microsoft Terminal settings to save the customizations.
 
+Acrylic - Basic with the Arcylic options added  
 Basic - standard configuration not much customization  
 Vintage - Vintage Color Scheme added  
 Greiged - Second Ubuntu Terminal with Greiged color shceme  
