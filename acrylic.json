@@ -31,7 +31,7 @@
 	    "cursorColor" : "#66FF66",
             "cursorShape" : "vintage",
             "useAcrylic" : true,
-	        "acrylicOpacity" : 0.75
+	    "acrylicOpacity" : 0.75
         },
         {
             "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
